@@ -1,0 +1,31 @@
+# Type of datatype
+
+# primitive
+
+#int
+#float
+#bool
+#string
+#None
+
+# num1=100
+# print(type(num1))
+
+# name="jake"
+# print(type(name))
+
+# num2=22.02
+# print(type(num2))
+
+# choice=True
+# print(type(choice))
+
+# multi_line_text="""this
+# is a 
+# multiline
+# text
+# """
+# print(type(multi_line_text))
+
+num=None
+print(type(num))

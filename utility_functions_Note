@@ -1,0 +1,9 @@
+input("message") read value from console
+print()print message in console
+type(obj) returns datatype of the specific object
+len()
+round()
+max()
+min()
+sum()
+sorted()
