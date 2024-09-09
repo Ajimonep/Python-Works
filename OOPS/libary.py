@@ -4,11 +4,11 @@ class Book:
         self.author = author
         self.price = price
 
-    def __str__(self):
+    def __str__(self): 
         return self.title
 
 book_instance1 = Book("GOAT LIFE","Benyamin", 500)
-book_instance2 = Book("Story of my life","Ann sulivan", 600)
+book_instance2 = Book("Story of my life","Ann sull ivan", 600)
 book_instance3 = Book("Wings of fire","APJ Abdul Kalam", 900)
 
 class Library:

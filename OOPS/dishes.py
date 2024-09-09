@@ -23,7 +23,7 @@ class Restraunt:
     def list_dishes(self):
         for d in self.dishes:
             print(d)
-restraunt_instance1=Restraunt("alakapuri","kakkanad")           
+restraunt_instance1=Restraunt("alakapuri","kakkanad")            
 
 restraunt_instance1.add_dishes(dishe_instance1)
 restraunt_instance1.add_dishes(dishe_instance2)
